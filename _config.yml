@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: Sports Analytics World
+url: "https://sportsanalytics.world"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,20 +10,20 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: Sports Analytics World provides players, coaches and basketball aficionados at every level the advantage to play smarter. Through automated analytics, valuable insights from individual to team-wide performance.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: 
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://twitter.com/sportsanalytics.world
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: America/Argentina/Buenos_Aires
 
 collections:
   staff_members:
@@ -90,21 +90,18 @@ exclude:
 # CloudCannon
 
 social_icons:
-  - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
-  - Pinterest
-  - Tumblr
   - Twitter
+  - Facebook
   - YouTube
   - RSS
 
 _comments:
-  map: Update the map location and display settings.
-  latitude: Coordinates for the center marker on the map.
-  longitude: Coordinates for the center marker on the map.
-  zoom: The zoom level for the map.
+#  map: Update the map location and display settings.
+#  latitude: Coordinates for the center marker on the map.
+#  longitude: Coordinates for the center marker on the map.
+#  zoom: The zoom level for the map.
   pricing_table: Update the information in the pricing tables.
   highlight: Emphasis the text
   color: The background colour used in the plan name and call to action.

@@ -7,10 +7,11 @@ baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
+dashboard_url: "https://basketball.sportsanalytics.world"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Sports Analytics World provides players, coaches and basketball aficionados at every level the advantage to play smarter. Through automated analytics, valuable insights from individual to team-wide performance.
+description: Sports Analytics World provides to athletes, players, organizations, coaches and fans at every level the advantage to play smarter. Through automated analytics, valuable insights from individual to team-wide performance.
 author:
   name:
   email:
@@ -18,7 +19,10 @@ author:
 social:
   name: 
   links:
-    - https://twitter.com/sportsanalytics.world
+    - https://twitter.com/sanalyticsworld/
+    - https://www.instagram.com/sportsanalytics.world/
+    - https://www.linkedin.com/company/sportsanalytics-world/
+    - https://www.facebook.com/sportsanalytics.world/
 
 # -----
 # Build

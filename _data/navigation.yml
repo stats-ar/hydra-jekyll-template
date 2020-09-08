@@ -1,11 +1,11 @@
-- name: Pricing
-  link: /pricing/
-  new_window: false
-  highlight: false
-- name: Blog
-  link: /blog/
-  new_window: false
-  highlight: false
+#- name: Pricing
+#  link: /pricing/
+#  new_window: false
+#  highlight: false
+#- name: Blog
+#  link: /blog/
+#  new_window: false
+#  highlight: false
 - name: About
   link: /about/
   new_window: false
@@ -19,6 +19,6 @@
   new_window: true
   highlight: false
 - name: Sign Up
-  link: /
+  link: /sign-up
   new_window: true
   highlight: true
